@@ -12,4 +12,15 @@ namespace Teste_X_si_0
 
 
     }
+
+    [TestClass]
+    public class TablaTest
+    {
+        [TestMethod]
+        public void TablaTest1()
+        {
+            Tabla t = new Tabla();
+            Assert.IsTrue(t.EstePozitiaLibera(0, 0));
+        }
+    }
 }
