@@ -1,0 +1,8 @@
+﻿clasa Jucator
+clasa Joc
+clasa Tabla
+
+Probleme
+Functia Joaca Joc e prea mare
+Interfata separat de mecanica jocului
+
